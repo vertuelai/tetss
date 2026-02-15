@@ -1,1 +1,5 @@
-Error: Azure API Error: (BadArgumentError) The request had some invalid properties Code: BadArgumentError Message: The request had some invalid properties Inner error: { "code": "SyntaxError", "message": "A recognition error occurred in the query.", "innererror": { "code": "SYN0002", "message": "Query could not be parsed at 'the' on line [1,6]", "line": 1, "pos": 6, "token": "the" } }
+
+Error: Azure API Error: (BadArgumentError) The request had some invalid properties Code: BadArgumentError Message: The request had some invalid properties Inner error: { "code": "SyntaxError", "message": "A recognition error occurred in the query.", "innererror": { "code": "SYN0002", "message": "Query could not be parsed at 'want' on line [1,3]", "line": 1, "pos": 3, "token": "want" } }
+
+
+
